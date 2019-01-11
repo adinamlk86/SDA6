@@ -38,7 +38,7 @@ public class KLargestElementArray {
         System.out.println();
         System.out.println();
 
-        for(int m=1;m<=noOfMax;m++) {
+        for(int m=0;m<noOfMax;m++) {
             max = returnLargestNumber(lista);
             System.out.println(max);
             lista = removeAnyNumber(max, lista);
