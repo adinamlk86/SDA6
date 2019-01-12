@@ -1,4 +1,4 @@
-package removemiddleletter;
+package stringoperations;
 
 public class RemoveMiddleLetter {
 
@@ -15,7 +15,7 @@ public class RemoveMiddleLetter {
     }
 
     public static void main(String[] args) {
-        String expresie = "aabaa";
+        String expresie = "aabbaa";
 
        displayMiddleChar(expresie);
 
