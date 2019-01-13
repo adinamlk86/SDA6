@@ -11,12 +11,12 @@ public class MinimMaxim {
                 max=sir[i];
             }
         }
-        int maxim=max;
+        int valueToCompare=max;
         for(int j=0;j<sir.length;j++){
 
-            if(sir[j]<maxim){
+            if(sir[j]<valueToCompare){
                 min=sir[j];
-                maxim=min;
+                valueToCompare=min;
 
             }
         }
