@@ -21,10 +21,10 @@ public class PrintChristmasTree {
             for(int n= 3-m;n>0;n--){
                 System.out.print(" ");
             }
-            for(int k=0;k<4;k++) {
-                System.out.println("*");
-
-            }
+//            for(int k=0;k<4;k++) {
+//                System.out.println("*");
+//
+//            }
         }
     }
 }
