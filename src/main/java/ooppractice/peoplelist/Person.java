@@ -1,4 +1,4 @@
-package classesandobjectpractice;
+package ooppractice.peoplelist;
 
 public class Person {
 

@@ -1,4 +1,4 @@
-package geometry;
+package ooppractice.geometry;
 
 import org.junit.Assert;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package geometry;
+package ooppractice.geometry;
 
 public class Dreptunghi {
 

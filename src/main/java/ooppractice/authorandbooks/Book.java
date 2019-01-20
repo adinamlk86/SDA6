@@ -1,4 +1,4 @@
-package authorandbooks;
+package ooppractice.authorandbooks;
 
 public class Book {
 

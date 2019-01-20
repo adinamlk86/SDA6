@@ -1,4 +1,4 @@
-package classesandobjectpractice;
+package ooppractice.peoplelist;
 
 import java.util.ArrayList;
 import java.util.Arrays;

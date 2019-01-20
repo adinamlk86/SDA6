@@ -1,4 +1,4 @@
-package authorandbooks;
+package ooppractice.authorandbooks;
 
 import org.junit.Assert;
 import org.junit.Test;
