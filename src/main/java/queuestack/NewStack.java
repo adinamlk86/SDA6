@@ -20,6 +20,7 @@ public class NewStack {
         }
         return full;
     }
+    //metoda isEmpty();
 
 
     public void push(int newElement){
@@ -31,10 +32,13 @@ public class NewStack {
         }
     }
 
-    public void pop(){
-
+    public int pop(){ // must return element it pops
+        int v = elements[top];
         elements[top]=0;
         top--;
+        return v;
+
+        //return -1 data lista e goala
     }
 
     @Override

@@ -16,7 +16,7 @@ public class NewQueue {
         this.rear=-1;
     }
 
-    public void insert(int newElement){
+    public void insert(int newElement){ //queue
 
         if(rear==size-1){
             rear=-1;
@@ -33,7 +33,7 @@ public class NewQueue {
         this.rear = rear;
     }
 
-    public int remove(){
+    public int remove(){ //dequeue
         int temp = elements[front];
         elements[front++]=0;
         if(front==size){
