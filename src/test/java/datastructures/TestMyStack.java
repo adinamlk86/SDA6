@@ -7,7 +7,7 @@ public class TestMyStack {
     @Test
     public void testIfMyStackWorks() {
 
-        int[] elements = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
+       // int[] elements = {0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
         MyStack firstStack = new MyStack(10);
         System.out.println(firstStack.toString());
 

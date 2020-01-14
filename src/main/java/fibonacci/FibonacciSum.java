@@ -11,7 +11,7 @@ public class FibonacciSum {
         System.out.print(first+" ");
         System.out.print(second+ " ");
         int sum=first+second;
-        for(int i=0;i<10;i++){
+        for(int i=0;i<30;i++){
             int next = first + second;
             System.out.print(next+ " ");
             if(next%2!=0){          // suma numerelor impare
